@@ -1,0 +1,12 @@
+\crypt32chain	
+\cryptnet	
+\cscdll	
+\sccertprop	
+\schedule	
+\sclgntfy	
+\senslogn	
+\termsrv	
+\wlballoon	
+\wzcnotif	
+\wgalogon	
+\dimsntfy	
